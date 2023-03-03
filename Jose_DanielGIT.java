@@ -14,9 +14,7 @@ public class Jose_DanielGIT {
     public static void main(String[] args) {
         System.out.println("Tarea ED04-2");
         String nombre = "Jose";
-        String apellido = "Lozano";
-        String apellido2 = "Saura";
         int edad = 25;
-        System.out.println(nombre + " " + apellido + " " + apellido2 + " " + edad );
+        System.out.println(nombre + " " + edad );
     }
 }
